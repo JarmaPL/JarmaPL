@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi 👋 <br><br>My name is Simon and I'm from Poland. 🇵🇱<br><br>I'm full stack developer with 5+ years of experience in new Web technologies like React, Node, NestJS, NextJS, Java, docker. 👨🏻‍💻<br><br>Let's build something special for you. 🚀</p>
+<p align="left">Hi 👋 <br><br>My name is Simon and I'm from Poland. 🇵🇱<br><br>I'm full stack developer with 6+ years of experience in new Web technologies like React, Node, NestJS, NextJS, Java, docker. 👨🏻‍💻<br><br>Let's build something special for you. 🚀</p>
 
 ###
 
